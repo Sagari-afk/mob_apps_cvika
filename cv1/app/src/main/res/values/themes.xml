@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.ProjectCv1" parent="Theme.MaterialComponents.Light.DarkActionBar">
+        <!-- Customize your light theme here. -->
+         <item name="colorPrimary">@color/pink_amaranth</item>
+         <item name="colorAccent">@color/violet</item>
+    </style>
+
+    <style name="Theme.ProjectCv1" parent="Base.Theme.ProjectCv1" />
+</resources>
