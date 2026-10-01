@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">Beer and Vine Adviser</string>
+    <string name="find_beer">Find Beer</string>
+    <string name="find_vine">Find Vine</string>
+    <string name="no_beer">No beer selected.</string>
+    <string name="no_vine">No vine selected.</string>
+    <string name="vine_or_beer_photo">Vine or beer photo</string>
+    <string-array name="country_origin">
+        <item>Slovakia</item>
+        <item>Czech Republic</item>
+        <item>Germany</item>
+    </string-array>
+    <string-array name="sk_beers">
+        <item>Zlatý bažant</item>
+        <item>Gambrinus</item>
+        <item>Frambor</item>
+        <item>Smädný mních</item>
+    </string-array>
+    <string-array name="cz_beers">
+        <item>Plzeň</item>
+        <item>Budvar</item>
+        <item>Krušovice</item>
+        <item>Lednický Ležák</item>
+    </string-array>
+    <string-array name="de_beers">
+        <item>Weihenstaphaner Hefe Weissbier</item>
+        <item>Ayinger</item>
+        <item>Schneider Weisse</item>
+        <item>Gaffel Kölsch</item>
+    </string-array>
+
+
+    <string-array name="sk_vines">
+        <item>Sk vino 1</item>
+        <item>Sk vino 2</item>
+        <item>Sk vino 3</item>
+        <item>Sk vino 4</item>
+    </string-array>
+    <string-array name="cz_vines">
+        <item>Cz vino 1</item>
+        <item>Cz vino 2</item>
+        <item>Cz vino 3</item>
+        <item>Cz vino 4</item>
+    </string-array>
+    <string-array name="de_vines">
+        <item>De vino 1</item>
+        <item>De vino 2</item>
+        <item>De vino 3</item>
+        <item>De vino 4</item>
+    </string-array>
+
+</resources>
+
+
