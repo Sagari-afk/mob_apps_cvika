@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">fragmentyAutori</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="autory">Autory</string>
+
+    <string name="autor1">Lev Tolstoj</string>
+    <string name="autor2">Fiodor Dostojevskij</string>
+    <string name="autor3">Alexander Puškin</string>
+
+    <string-array name="authors_list_desc">
+        <item>„Všetky šťastné rodiny sú si podobné, každá nešťastná rodina je nešťastná svojím vlastným spôsobom.“ („Anna Kareninová“)</item>
+        <item>„Krása spasí svet.“ („Idiot“)</item>
+        <item>„Všetci sme sa niečo a tak nejako učili…“ („Eugen Onegin“)</item>
+    </string-array>
+
+</resources>

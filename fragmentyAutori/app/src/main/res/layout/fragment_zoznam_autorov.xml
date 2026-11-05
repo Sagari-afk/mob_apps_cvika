@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#D0FFC107"
+    tools:context=".ZoznamAutorovFragment"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/NazovApky"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="sans-serif-smallcaps"
+        android:text="@string/autory"
+        android:textAlignment="center"
+        android:textSize="34sp"
+        android:typeface="normal" />
+
+    <Button
+        android:id="@+id/autor1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/autor1" />
+
+    <Button
+        android:id="@+id/autor2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/autor2" />
+
+    <Button
+        android:id="@+id/autor3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/autor3" />
+</LinearLayout>
