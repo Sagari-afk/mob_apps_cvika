@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Nav app</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="web">Web</string>
+    <string name="about">About</string>
+    <string name="exit">Exit</string>
+    <string name="about_text">Tato aplikacia je ukazka pouzitia navigacneho panelu a menu. V Web sa da otvorit web z preddefinovanych alebo zvolit kastomny.</string>
+    <string name="about_name">About</string>
+    <string name="web_text">Vyber web stranku z predvolenych alebo zadaj vlastnu.</string>
+    <string name="custom_url">Custom url</string>
+    <string name="tu_zadaj_custom_url">Tu zadaj custom url…</string>
+    <string name="otvorit_web">Otvorit web</string>
+    <string-array name="predvolene_urls_list">
+        <item>https://google.com</item>
+        <item>https://feit.uniza.com</item>
+        <item>https://www.uniza.com</item>
+    </string-array>
+</resources>
