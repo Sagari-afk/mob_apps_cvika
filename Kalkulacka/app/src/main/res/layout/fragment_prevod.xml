@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center">
+
+
+    <TextView
+        android:id="@+id/desc"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text=""
+        android:textAlignment="center"
+        android:textSize="34sp" />
+
+    <EditText
+        android:id="@+id/numToConvert"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:autofillHints=""
+        android:inputType="number" />
+
+    <androidx.appcompat.widget.SwitchCompat
+        android:id="@+id/switchJednotky"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=""
+        android:textSize="34sp"/>
+
+    <Button
+        android:id="@+id/convertBtn"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:text="@string/previed"
+        android:textSize="34sp"/>
+
+    <TextView
+        android:id="@+id/viewConvertedNum"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=""
+        android:textSize="34sp"/>
+</LinearLayout>

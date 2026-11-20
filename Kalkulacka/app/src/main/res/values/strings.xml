@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Kalkulacka</string>
+    <string name="temperature">Teplota (°F / °C)</string>
+    <string name="weight">Hmotnosť (kg / lb)</string>
+    <string name="distance">Vzdialenosť (km / mi)</string>
+    <string name="open_navigation">Otvoriť navigáciu</string>
+    <string name="close_navigation">Zatvoriť navigáciu</string>
+    <string name="value_hint">Zadajte hodnotu (%1$s)</string>
+    <string name="swap_units">Vymeniť jednotky ⇄</string>
+    <string name="empty_result">Výsledok: — %1$s</string>
+    <string name="conversion_result">Výsledok: %1$s %2$s</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="teplota">Teplota</string>
+    <string name="vaha">Vaha</string>
+    <string name="vzdalenost">Vzdalenost</string>
+    <string name="previed">Previeď</string>
+</resources>

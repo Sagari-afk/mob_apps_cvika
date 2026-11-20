@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graf"
+    app:startDestination="@id/teplotaFragment">
+
+    <fragment
+        android:id="@+id/teplotaFragment"
+        android:name="com.example.kalkulacka.TeplotaFragment"
+        android:label="Teplota"
+        tools:layout="@layout/fragment_prevod" />
+    <fragment
+        android:id="@+id/vahaFragment"
+        android:name="com.example.kalkulacka.VahaFragment"
+        android:label="Vaha"
+        tools:layout="@layout/fragment_prevod" />
+    <fragment
+        android:id="@+id/vzdalenostFragment"
+        android:name="com.example.kalkulacka.VzdalenostFragment"
+        android:label="Vzdalenost"
+        tools:layout="@layout/fragment_prevod" />
+</navigation>
